@@ -1,0 +1,9 @@
+.card__likes-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto 18px auto 0;
+  position: absolute;
+  right: 20px;
+  bottom: 21px;
+}
